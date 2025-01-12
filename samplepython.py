@@ -1,7 +1,7 @@
 print('Hi')
 
 
-a= 'Hi git'
+a= 'Hi Player'
 
 
 print(a)
